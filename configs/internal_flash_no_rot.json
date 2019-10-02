@@ -102,6 +102,9 @@
         },
         "NUCLEO_F429ZI": {
             "kvstore-size": "2*64*1024"
+        },
+        "DISCO_H747I": {
+            "kvstore-size": "2*128*1024"
         }
     }
 }
